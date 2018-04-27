@@ -1,5 +1,5 @@
 applications:
-- name: sad-newton
+- name: evilCloudChat
   memory: 128M
   host: evilCloudChat
   buildpack: staticfile_buildpack
